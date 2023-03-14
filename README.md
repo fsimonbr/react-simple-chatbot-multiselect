@@ -1,4 +1,6 @@
-How to use:
+How to use multi-select on react-simple-chatbot
+
+
 ```javascript
 const options = [
 	{
