@@ -1,4 +1,6 @@
-How to use multi-select on react-simple-chatbot
+Custom component for multi-select in react-simple-chatbot
+
+How to use:
 
 
 ```javascript
