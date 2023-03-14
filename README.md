@@ -1,5 +1,5 @@
 How to use:
-
+<code>
 const options = [
 	{
 		value: 1,
@@ -29,3 +29,4 @@ const options = [
     ),
     hideInput: true,
 }
+</code>
